@@ -1,6 +1,6 @@
 {
   "name": "hardhat-settings",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Hardhat plugin to load, validate, and populate settings in the environment.",
   "author": "Blaine Bublitz <blaine.bublitz@gmail.com> (https://github.com/phated)",
   "repository": "projectsophon/hardhat-settings",
